@@ -1,0 +1,10 @@
+C:\Users\celal\Desktop\SistemAnaliz\DegerGrafikleri\DegerGrafikleri\bin\Debug\DegerGrafikleri.exe.config
+C:\Users\celal\Desktop\SistemAnaliz\DegerGrafikleri\DegerGrafikleri\bin\Debug\DegerGrafikleri.exe
+C:\Users\celal\Desktop\SistemAnaliz\DegerGrafikleri\DegerGrafikleri\bin\Debug\DegerGrafikleri.pdb
+C:\Users\celal\Desktop\SistemAnaliz\DegerGrafikleri\DegerGrafikleri\obj\Debug\DegerGrafikleri.csproj.AssemblyReference.cache
+C:\Users\celal\Desktop\SistemAnaliz\DegerGrafikleri\DegerGrafikleri\obj\Debug\DegerGrafikleri.Form1.resources
+C:\Users\celal\Desktop\SistemAnaliz\DegerGrafikleri\DegerGrafikleri\obj\Debug\DegerGrafikleri.Properties.Resources.resources
+C:\Users\celal\Desktop\SistemAnaliz\DegerGrafikleri\DegerGrafikleri\obj\Debug\DegerGrafikleri.csproj.GenerateResource.cache
+C:\Users\celal\Desktop\SistemAnaliz\DegerGrafikleri\DegerGrafikleri\obj\Debug\DegerGrafikleri.csproj.CoreCompileInputs.cache
+C:\Users\celal\Desktop\SistemAnaliz\DegerGrafikleri\DegerGrafikleri\obj\Debug\DegerGrafikleri.exe
+C:\Users\celal\Desktop\SistemAnaliz\DegerGrafikleri\DegerGrafikleri\obj\Debug\DegerGrafikleri.pdb
